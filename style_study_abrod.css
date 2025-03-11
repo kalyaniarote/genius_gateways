@@ -14,7 +14,7 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 15px 50px;
-    background-color: #0032a5;
+    background-color: #ffffff;
 }
 
 .navbar .logo img {
@@ -30,7 +30,7 @@ body {
 
 .nav-links a {
     text-decoration: none;
-    color: white;
+    color:#0a1f7d;
     font-weight: bold;
     padding: 8px 12px;
     transition: all 0.3s ease;
