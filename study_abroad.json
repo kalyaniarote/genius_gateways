@@ -1,0 +1,184 @@
+{
+    "USA": {
+        "title": "Studying in the USA",
+        "description": "The USA is a global educational hub with over 4,000 institutions offering a wide variety of courses. It is known for high-quality education, research opportunities, and a vibrant student life.",
+        "whyChoose": [
+            "World-renowned universities with flexible study options.",
+            "Advanced research facilities and cutting-edge technology.",
+            "Excellent career prospects with post-graduation job opportunities."
+        ],
+        "topUniversities": [
+            "Massachusetts Institute of Technology (MIT)",
+            "Harvard University",
+            "Stanford University",
+            "University of California, Berkeley",
+            "Columbia University"
+        ],
+        "tuitionFees": {
+            "undergraduate": "$15,000–$30,000/year",
+            "postgraduate": "$20,000–$35,000/year"
+        },
+        "livingExpenses": {
+            "estimated": "$15,000–$18,000 per year",
+            "metropolitan": "up to $20,000/year",
+            "suburban": "$10,000–$12,000/year"
+        },
+        "faqs": [
+            {"question": "Can Indian students study in the USA?", "answer": "Yes, provided they meet eligibility and admission criteria."},
+            {"question": "Can students work while studying?", "answer": "Yes, up to 20 hours per week on campus."},
+            {"question": "What are the accommodation options?", "answer": "On-campus dorms, shared apartments, and homestays."},
+            {"question": "Is IELTS compulsory?", "answer": "No, alternatives like TOEFL and PTE Academic are accepted."}
+        ]
+    },
+
+    "UK": {
+        "title": "Studying in the UK",
+        "description": "The UK is home to some of the world's top universities and provides students with globally recognized degrees. The education system emphasizes research, practical knowledge, and critical thinking.",
+        "whyChoose": [
+            "Home to prestigious universities like Oxford and Cambridge.",
+            "Shorter duration for degrees compared to other countries.",
+            "Diverse culture and strong industry connections."
+        ],
+        "topUniversities": [
+            "University of Oxford",
+            "University of Cambridge",
+            "Imperial College London",
+            "London School of Economics",
+            "University of Manchester"
+        ],
+        "tuitionFees": {
+            "undergraduate": "£10,000–£30,000/year",
+            "postgraduate": "£12,000–£35,000/year"
+        },
+        "livingExpenses": {
+            "estimated": "£12,000–£15,000 per year",
+            "metropolitan": "up to £18,000/year",
+            "suburban": "£9,000–£12,000/year"
+        },
+        "faqs": [
+            {"question": "Can I work while studying?", "answer": "Yes, students can work up to 20 hours per week."},
+            {"question": "Is the UK degree recognized globally?", "answer": "Yes, UK degrees are highly valued worldwide."},
+            {"question": "Can I stay after my studies?", "answer": "Yes, the UK offers a post-study work visa."}
+        ]
+    },
+
+    "Canada": {
+        "title": "Studying in Canada",
+        "description": "Canada is one of the safest and most affordable study destinations, known for its high-quality education, multicultural environment, and post-study work opportunities.",
+        "whyChoose": [
+            "Affordable tuition fees compared to other top destinations.",
+            "Opportunity to gain Canadian permanent residency after studies.",
+            "Excellent quality of life and research opportunities."
+        ],
+        "topUniversities": [
+            "University of Toronto",
+            "University of British Columbia",
+            "McGill University",
+            "University of Alberta",
+            "University of Waterloo"
+        ],
+        "tuitionFees": {
+            "undergraduate": "CAD 15,000–CAD 30,000/year",
+            "postgraduate": "CAD 18,000–CAD 35,000/year"
+        },
+        "livingExpenses": {
+            "estimated": "CAD 12,000–CAD 18,000 per year",
+            "metropolitan": "up to CAD 20,000/year",
+            "suburban": "CAD 10,000–CAD 14,000/year"
+        },
+        "faqs": [
+            {"question": "Can I work while studying in Canada?", "answer": "Yes, students can work up to 20 hours per week."},
+            {"question": "Is IELTS mandatory?", "answer": "Yes, IELTS or TOEFL is required for most universities."}
+        ]
+    },
+
+    "Australia": {
+        "title": "Studying in Australia",
+        "description": "Australia is home to top-ranking universities, offering research-based learning and strong job opportunities post-graduation.",
+        "whyChoose": [
+            "High standard of living with excellent healthcare and safety.",
+            "Post-study work visas available.",
+            "Globally recognized degrees with strong research focus."
+        ],
+        "topUniversities": [
+            "Australian National University",
+            "University of Sydney",
+            "University of Melbourne",
+            "University of Queensland",
+            "Monash University"
+        ],
+        "tuitionFees": {
+            "undergraduate": "AUD 20,000–AUD 40,000/year",
+            "postgraduate": "AUD 22,000–AUD 45,000/year"
+        },
+        "livingExpenses": {
+            "estimated": "AUD 18,000–AUD 25,000 per year"
+        },
+        "faqs": [
+            {"question": "Can I stay in Australia after my studies?", "answer": "Yes, you can apply for a post-study work visa."}
+        ]
+    },
+
+    "Germany": {
+        "title": "Studying in Germany",
+        "description": "Germany is a great destination for international students due to its high-quality education system and low or no tuition fees at public universities.",
+        "whyChoose": [
+            "Most public universities offer free education.",
+            "Strong research opportunities in engineering and sciences.",
+            "Vibrant student life with cultural diversity."
+        ],
+        "topUniversities": [
+            "Technical University of Munich",
+            "University of Heidelberg",
+            "Ludwig Maximilian University of Munich",
+            "University of Freiburg"
+        ],
+        "tuitionFees": {
+            "undergraduate": "Mostly free (small administrative fee)",
+            "postgraduate": "€500–€1,500 per semester"
+        },
+        "faqs": [
+            {"question": "Do I need to know German?", "answer": "Yes, most courses require German proficiency."}
+        ]
+    },
+
+    "France": {
+        "title": "Studying in France",
+        "description": "France offers world-class education with affordable tuition fees, making it one of the top destinations for students worldwide.",
+        "whyChoose": [
+            "Affordable tuition fees compared to other European countries.",
+            "Home to globally recognized business and fashion schools.",
+            "Rich culture and student-friendly cities."
+        ],
+        "topUniversities": [
+            "Sorbonne University",
+            "HEC Paris",
+            "Ecole Normale Supérieure",
+            "University of Paris"
+        ],
+        "tuitionFees": {
+            "undergraduate": "€2,000–€5,000/year",
+            "postgraduate": "€3,000–€10,000/year"
+        }
+    },
+
+    "New Zealand": {
+        "title": "Studying in New Zealand",
+        "description": "New Zealand provides top-tier education, work opportunities, and a safe environment for students.",
+        "whyChoose": [
+            "Work-friendly policies for international students.",
+            "Affordable tuition fees and cost of living.",
+            "High-quality education and research opportunities."
+        ],
+        "topUniversities": [
+            "University of Auckland",
+            "University of Otago",
+            "Victoria University of Wellington",
+            "University of Canterbury"
+        ],
+        "tuitionFees": {
+            "undergraduate": "NZD 20,000–NZD 35,000/year",
+            "postgraduate": "NZD 25,000–NZD 40,000/year"
+        }
+    }
+}
